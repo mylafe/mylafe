@@ -8,11 +8,11 @@
             <h4 align="center">mylafe✨✨✨</h4>
         </td>
         <td style="width:50%">
-            <!-- 右侧内容-->
+            <!-- 右侧内容
+            <h4 align="center">skill🔭🔭🔭</h4>-->
             <a align="center" href="https://github.com/mylafe" target="_blank">
                 <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mylafe&layout=compact" />
             </a>
-            <h4 align="center">skill🔭🔭🔭</h4>
         </td>
     </tr>
 </table>
