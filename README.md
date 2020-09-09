@@ -1,4 +1,4 @@
-<table style="margin：auto;">
+<table style="margin-left: auto; margin-right: auto;">
     <tr>
         <td style="width:50%">
             <!-- 左侧内容 -->
@@ -12,14 +12,14 @@
             <a align="center" href="https://github.com/mylafe" target="_blank">
                 <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mylafe&layout=compact" />
             </a>
-            <h4 align="center">Skill🔭🔭🔭</h4>
+            <h4 align="center">skill🔭🔭🔭</h4>
         </td>
     </tr>
 </table>
 
-#### Posts
+#### posts
 
-- 2020-04-03 [Elasticsearch中文+拼音+组合分词搜索](http://litao0501.com/article-142.html)
+- 2020-04-03 [Elasticsearch中文+拼音+组合分词搜索](https://note.youdao.com/ynoteshare1/index.html?id=2b991c6fef966b6f03c908111b1ee860&type=note)
 
 <!--
 ### Hi there 👋
