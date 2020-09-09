@@ -1,17 +1,21 @@
-<p align="center">
-    <a align="center" href="http://www.litao0501.com/canvas/b/index.html" target="_blank">
-        <img src="https://avatars3.githubusercontent.com/u/15007186" height="100px">
-    </a>
-    <h4 align="center">mylafe</h4>
-</p>
-
-#### Skill
-
-<p align="center">
-    <a href="https://github.com/mylafe" target="_blank">
-        <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mylafe&layout=compact" />
-    </a>
-</p>
+<table style="margin：auto;">
+    <tr>
+        <td style="width:50%">
+            <!-- 左侧内容 -->
+            <a align="center" href="http://www.litao0501.com/canvas/b/index.html" target="_blank">
+                <img align="center" src="https://avatars3.githubusercontent.com/u/15007186" height="100px">
+            </a>
+            <h4 align="center">mylafe✨✨✨</h4>
+        </td>
+        <td style="width:50%">
+            <!-- 右侧内容-->
+            <a align="center" href="https://github.com/mylafe" target="_blank">
+                <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mylafe&layout=compact" />
+            </a>
+            <h4 align="center">Skill🔭🔭🔭</h4>
+        </td>
+    </tr>
+</table>
 
 #### Posts
 
