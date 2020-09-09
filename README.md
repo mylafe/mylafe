@@ -9,11 +9,11 @@
 
 <p align="center">
     <a href="https://github.com/mylafe" target="_blank">
-        <img align="right" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mylafe&layout=compact" />
+        <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mylafe&layout=compact" />
     </a>
 </p>
 
-### Posts
+#### Posts
 
 - 2020-04-03 [Elasticsearch中文+拼音+组合分词搜索](http://litao0501.com/article-142.html)
 
