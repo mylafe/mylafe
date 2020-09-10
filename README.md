@@ -4,7 +4,9 @@
             <a align="center" href="http://www.litao0501.com/canvas/b/index.html" target="_blank">
                 <img align="center" src="https://avatars3.githubusercontent.com/u/15007186" height="100px">
             </a>
-            <h4 align="center">mylafe🔭✨✨✨</h4>
+            <h4 align="center">🔭🔭🔭</h4>
+            <h4 align="center">mylafe</h4>
+            <h4 align="center">✨✨✨</h4>
         </td>
         <td>
             <a align="center" href="https://github.com/mylafe" target="_blank">
