@@ -1,17 +1,19 @@
-<table style="margin-left: auto; margin-right: auto;">
+<table style="margin:auto;">
     <tr>
-        <td style="width:50%">
-            <!-- 左侧内容 -->
+        <td>
             <a align="center" href="http://www.litao0501.com/canvas/b/index.html" target="_blank">
                 <img align="center" src="https://avatars3.githubusercontent.com/u/15007186" height="100px">
             </a>
-            <h4 align="center">mylafe✨✨✨</h4>
+            <h4 align="center">mylafe🔭✨✨✨</h4>
         </td>
-        <td style="width:50%">
-            <!-- 右侧内容
-            <h4 align="center">skill🔭🔭🔭</h4>-->
+        <td>
             <a align="center" href="https://github.com/mylafe" target="_blank">
                 <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mylafe&layout=compact" />
+            </a>
+        </td>
+        <td>
+            <a align="center" href="https://github.com/mylafe" target="_blank">
+                <img align="center" height="180" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mylafe&show_icons=true&include_all_commits=true" />
             </a>
         </td>
     </tr>
