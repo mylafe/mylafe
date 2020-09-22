@@ -13,7 +13,6 @@
 - 2020-01-30 [centOS7运维](https://github.com/mylafe/centOS7)
 
 <!--
-
 <table style="margin:auto;">
     <tr>
         <td>
