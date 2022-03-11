@@ -1,7 +1,7 @@
 |<a href="https://github.com/mylafe"><img align="center" src="https://avatars3.githubusercontent.com/u/15007186" height="100px"><br>🔭🔭🔭<br>mylafe<br>✨✨✨</a>|<a href="https://github.com/mylafe"><img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mylafe&layout=compact&count_private=true&theme=radical" /></a>|<a href="https://github.com/mylafe"><img align="center" height="180" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mylafe&show_icons=true&include_all_commits=true&count_private=true&theme=radical" /></a>|
 |---|---|---|
 
-<a href="https://github.com/mylafe"><img align="center" width="100%" src="https://github-profile-trophy.vercel.app/?username=mylafe&row=1&column=4&theme=monokai" /></a>
+<a href="https://github.com/mylafe"><img align="center" width="100%" src="https://github-profile-trophy.vercel.app/?username=mylafe&row=1&column=6&theme=monokai" /></a>
 
 <!--
 |<a href="https://github.com/mylafe"><img src="https://s1.ax1x.com/2020/09/18/whzOzD.gif" /></a>|<a href="https://github.com/mylafe"><img src="https://s1.ax1x.com/2020/09/25/09EGbq.th.png" /></a>|<a href="https://github.com/mylafe"><img src="https://s1.ax1x.com/2020/09/18/whxmcQ.th.jpg" /></a>|
