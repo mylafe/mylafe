@@ -38,7 +38,7 @@
 [![Docker](https://img.shields.io/badge/Docker-05122A?style=flat-square&logo=Docker)](#)
 [![Aliyun](https://img.shields.io/badge/Aliyun-05122A?style=flat&logo=Alibaba-cloud)](#)
 
-#### 🏆️ &nbsp;Contribution
+#### 🏆️ &nbsp;Github
 <!-- 贡献度 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mylafe/mylafe/output/github-contribution-grid-snake-dark.svg">
@@ -49,8 +49,8 @@
 <!-- |<a href="https://github.com/mylafe"><img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mylafe&layout=compact&count_private=true&theme=radical" /></a>|<a href="https://github.com/mylafe"><img align="center" height="180" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mylafe&show_icons=true&include_all_commits=true&count_private=true&theme=radical" /></a>|
 |---|---| -->
 
-|<a href="https://github.com/mylafe"><img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mylafe&layout=compact&count_private=true&theme=radical" /></a>|<a href="https://github.com/mylafe"><img align="center" height="180" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mylafe&show_icons=true&include_all_commits=true&count_private=true&theme=radical" /></a>|
-|---|---|
+<!-- |<a href="https://github.com/mylafe"><img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mylafe&layout=compact&count_private=true&theme=radical" /></a>|<a href="https://github.com/mylafe"><img align="center" height="180" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mylafe&show_icons=true&include_all_commits=true&count_private=true&theme=radical" /></a>|
+|---|---| -->
 
 <!-- <a href="https://github.com/mylafe"><img align="center" width="100%" src="https://github-profile-trophy.vercel.app/?username=mylafe&row=1&column=6&theme=monokai" /></a> -->
 
