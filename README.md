@@ -15,7 +15,7 @@
 
 - 2020-06-12 [design-patterns-php](https://github.com/mylafe/design-patterns-php)
 
-- 2020-04-03 [Elasticsearch中文+拼音+组合分词搜索](https://note.youdao.com/ynoteshare1/index.html?id=2b991c6fef966b6f03c908111b1ee860&type=note)
+- 2020-04-03 [Elasticsearch中文+拼音+组合分词搜索](http://litao0501.top/article-142.html)
 
 - 2020-01-30 [centOS7运维](https://github.com/mylafe/centOS7)
 
