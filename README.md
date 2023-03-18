@@ -46,6 +46,9 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mylafe/mylafe/output/github-contribution-grid-snake.svg">
 </picture>
 
+<!-- |<a href="https://github.com/mylafe"><img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mylafe&layout=compact&count_private=true&theme=radical" /></a>|<a href="https://github.com/mylafe"><img align="center" height="180" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mylafe&show_icons=true&include_all_commits=true&count_private=true&theme=radical" /></a>|
+|---|---| -->
+
 |<a href="https://github.com/mylafe"><img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mylafe&layout=compact&count_private=true&theme=radical" /></a>|<a href="https://github.com/mylafe"><img align="center" height="180" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mylafe&show_icons=true&include_all_commits=true&count_private=true&theme=radical" /></a>|
 |---|---|
 
