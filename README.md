@@ -10,7 +10,14 @@
 |<a href="https://github.com/mylafe"><img src="https://s1.ax1x.com/2020/09/18/whzOzD.gif" /></a>|<a href="https://github.com/mylafe"><img src="https://s1.ax1x.com/2020/09/25/09EGbq.th.png" /></a>|<a href="https://github.com/mylafe"><img src="https://s1.ax1x.com/2020/09/18/whxmcQ.th.jpg" /></a>|
 -->
 
-#### posts
+### 🏆️ &nbsp;contribution
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mylafe/mylafe/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mylafe/mylafe/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mylafe/mylafe/output/github-contribution-grid-snake.svg">
+</picture>
+
+#### 📝 &nbsp;posts
 
 - 2020-09-15 [golang-study](https://github.com/mylafe/golang-study)
 
