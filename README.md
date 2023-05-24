@@ -7,13 +7,13 @@
 [![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=Python)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=TypeScript)](#)
 
-[![ThinkPHP](https://img.shields.io/badge/ThinkPHP-05122A?style=flat&logo=ThinkPHP)](#)
-[![Yii2](https://img.shields.io/badge/Yii2-05122A?style=flat&logo=Yii2)](#)
+[![ThinkPHP](https://img.shields.io/badge/ThinkPHP-05122A?style=flat&logo=PHP)](#)
+[![Yii2](https://img.shields.io/badge/Yii2-05122A?style=flat&logo=PHP)](#)
 [![CodeIgniter](https://img.shields.io/badge/CI-05122A?style=flat&logo=CodeIgniter)](#)
 [![Laravel](https://img.shields.io/badge/Laravel-05122A?style=flat&logo=Laravel)](#)
-[![Hyperf](https://img.shields.io/badge/Hyperf-05122A?style=flat&logo=Hyperf)](#)
-[![Gin](https://img.shields.io/badge/Gin-05122A?style=flat&logo=gin)](#)
-[![Beego](https://img.shields.io/badge/Beego-05122A?style=flat&logo=beego)](#)
+[![Hyperf](https://img.shields.io/badge/Hyperf-05122A?style=flat&logo=php)](#)
+[![Gin](https://img.shields.io/badge/Gin-05122A?style=flat&logo=go)](#)
+[![Beego](https://img.shields.io/badge/Beego-05122A?style=flat&logo=go)](#)
 [![Go-zero](https://img.shields.io/badge/go-zero-05122A?style=flat&logo=go-zero)](#)
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=JavaScript)](#)
@@ -25,7 +25,7 @@
 [![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git)](#)
 [![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux)](#)
 [![Visual Studio Code](https://img.shields.io/badge/vscode-05122A?style=flat&logo=visual-studio-code)](#)
-[![Gulp.js](https://img.shields.io/badge/Gulp.js-02303A?style=flat-square&logo=Gulpdotjs)](#)
+[![Gulp.js](https://img.shields.io/badge/Gulp.js-02303A?style=flat-square&logo=Gulp)](#)
 
 [![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat-square&logo=mysql)](#)
 [![SQLServer](https://img.shields.io/badge/SQLServer-05122A?style=flat-square&logo=SQLServer)](#)
